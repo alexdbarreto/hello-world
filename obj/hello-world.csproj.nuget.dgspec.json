@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/alex/Projetos/vscode/helloworld/hello-world/hello-world.csproj": {}
+    "/home/alex/Projetos/vscode/hello-world/hello-world.csproj": {}
   },
   "projects": {
-    "/home/alex/Projetos/vscode/helloworld/hello-world/hello-world.csproj": {
+    "/home/alex/Projetos/vscode/hello-world/hello-world.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alex/Projetos/vscode/helloworld/hello-world/hello-world.csproj",
+        "projectUniqueName": "/home/alex/Projetos/vscode/hello-world/hello-world.csproj",
         "projectName": "hello-world",
-        "projectPath": "/home/alex/Projetos/vscode/helloworld/hello-world/hello-world.csproj",
+        "projectPath": "/home/alex/Projetos/vscode/hello-world/hello-world.csproj",
         "packagesPath": "/home/alex/.nuget/packages/",
-        "outputPath": "/home/alex/Projetos/vscode/helloworld/hello-world/obj/",
+        "outputPath": "/home/alex/Projetos/vscode/hello-world/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/alex/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PmpHPoNcusv945Wn0Rt1/JjXYSF6pd17TDWczRegGPyCOm5cT96n43I3YgWx/gPFEyA0jNgUHw2u2jOGeuWxWQ==",
+  "dgSpecHash": "+Pn8liH6owlzI0vH0gS9+SmyFsBRgiaNr+ib5qA7BfHyu3RgWuKhuI84G74MD19ZeSmhfT7hhH1ma6gjmK58jA==",
   "success": true,
-  "projectFilePath": "/home/alex/Projetos/vscode/helloworld/hello-world/hello-world.csproj",
+  "projectFilePath": "/home/alex/Projetos/vscode/hello-world/hello-world.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
